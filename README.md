@@ -1,5 +1,6 @@
 # KenziegramDarkTheme
-Projeto Clone do Instagram com estilo tema escuro
+Projeto Clone do Instagram com estilo tema escuro em HTML e CSS
+
 
 Para visualizar com totalidade :
 -Baixar ZIP
